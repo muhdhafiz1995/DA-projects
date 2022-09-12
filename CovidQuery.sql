@@ -7,7 +7,6 @@
 
 SELECT * 
 FROM [Portfolio projects]..CovidDeaths;
-
 SELECT continent, location, date, population, total_cases, new_cases
 FROM [Portfolio projects]..CovidDeaths
 WHERE continent is not null
