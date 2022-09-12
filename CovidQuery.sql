@@ -1,3 +1,8 @@
+--- Covid Query project will showcase how data exploration regarding Covid-19 can be done with SQL using data taken from https://ourworldindata.org/covid-deaths#citation
+
+--- References:
+--- Ritchie, H., Mathieu, E., Rodés-Guirao, L., Appel, C., Giattino, C., Ortiz-Ospina, E., Hasell, J., Macdonald, B., Beltekian, D., &amp; Roser, M. (2020, March 5). Coronavirus (COVID-19) deaths. Our World in Data. Retrieved September 12, 2022, from https://ourworldindata.org/covid-deaths#citation 
+
 --- Overview of table
 
 SELECT * 
